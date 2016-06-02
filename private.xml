@@ -15,5 +15,12 @@
                         <autogen>--KeyToKey-- KeyCode::CONTROL_L, KeyCode::FN</autogen>
                         <autogen>--KeyToKey-- KeyCode::FN, KeyCode::CONTROL_L</autogen>
                 </item>
+                <item>
+                        <name>control swap fn (MacBookPro11,4 retina internal keyboard only)</name>
+                        <identifier>private.swap_control_fn_macbook_pro_11_4_retina</identifier>
+                        <device_only>DeviceVendor::APPLE_COMPUTER,DeviceProduct::APPLE_INTERNAL_KEYBOARD_TRACKPAD_0x0274</device_only>
+                        <autogen>--KeyToKey-- KeyCode::CONTROL_L, KeyCode::FN</autogen>
+                        <autogen>--KeyToKey-- KeyCode::FN, KeyCode::CONTROL_L</autogen>
+                </item>
 	</list>
 </root>
